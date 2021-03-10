@@ -352,7 +352,7 @@ src: url('data:application/font-woff2;charset=utf-8;base64,d09GMgABAAAAAHHgABAAA
 h1{
   font-family: concourse-t2;
   font-size: 1.8em;
-  line-height; 1.1;
+  line-height: 1.1;
   width: 28rem;
   margin-top: 0.25rem;
   margin-bottom: 1.5rem;
