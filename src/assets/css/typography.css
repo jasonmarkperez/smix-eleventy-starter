@@ -225,3 +225,7 @@ html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
 }
+
+h1 {
+  font-family: 'Inter var', sans-serif !important; 
+}
